@@ -1,3 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F78AD1&width=1000&height=100&lines=Hello%2C+welcome+to+my+FuUnNy+lab" alt="Typing SVG" /></a>
 
+![twossu's GitHub stats](https://github-readme-stats.vercel.app/api?username=twossu&show_icons=true&theme=aura_dark)
+
 <a href="https://twossu.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
